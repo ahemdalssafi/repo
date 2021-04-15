@@ -1,7 +1,6 @@
 gubartalla
 
-a
-b
+
 
 c
 d
